@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Transaction {
 	Scanner sc=new Scanner(System.in);
 	Accounts_arr ac=new Accounts_arr();
-	 int choice;
+	int choice;
 	public void account() {
 		
 			System.out.println("Enter the account number");
