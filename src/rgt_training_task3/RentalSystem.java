@@ -121,6 +121,7 @@ public class RentalSystem {
 				break;
 			case 6:
 				exit = true;
+				System.out.println("Returned the vehicle, Exiting");
 				break;
 			default:
 				System.out.println("Thanks for Choosing My Rental Cars and Visit again");

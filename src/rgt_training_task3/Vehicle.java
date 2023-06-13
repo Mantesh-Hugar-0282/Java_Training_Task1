@@ -5,7 +5,7 @@ import java.util.List;
 public abstract class Vehicle implements VehicleOperations{
 
 	private String licensePlate;
-    private String make;
+    private String make; // brand
     private String model;
     private boolean isAvailable;
 

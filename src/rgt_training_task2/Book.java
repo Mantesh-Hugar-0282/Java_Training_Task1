@@ -1,4 +1,4 @@
-package rgt_taining_task2;
+package rgt_training_task2;
 import java.util.Scanner;
 
 
